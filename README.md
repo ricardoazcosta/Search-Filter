@@ -17,7 +17,7 @@ Projeto Filtro de Pesquisa
 <br>
 
 <p align="center">
-  <img alt="layout" src="./assets/preview.png" width="100%">
+  <img alt="layout" src="https://stackblitz.com/edit/web-platform-xzgfn7?file=README.md,assets%2Fpreview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
