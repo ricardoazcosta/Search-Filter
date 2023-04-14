@@ -31,8 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Phosphor Icons: https://phosphoricons.com/
 
 ## 💻 Projeto
-
-Este Projeto tem como Finalilade de por em pratica o Conhecimento e as Habilidade para quem esta em Inicio de Carreira! <br>
+Este Projeto tem como Finalilade de por em pratica o Conhecimento e as Habilidade para quem esta em Inicio de Carreira!<br> 
+Utilizando-se da Tecnologia SHORTHAND, que são propriedades de CSS que deixam você setar os valores de outras propriedades de CSS simultaneamente <br>
 O Projeto funciona como um Filtro de Pesquisa, onde você pode pesquisar na caixa de pesquisa Letras, Numeros ou Caracters!
 
 ## 🔖 Layout
